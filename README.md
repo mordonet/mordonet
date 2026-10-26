@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Brayan Martínez 👋
 
-<!--
-**mordonet/mordonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aprendiz de **Técnico en Programación de Software** en el SENA, actualmente en etapa productiva en el área de sistemas. 📍 Bogotá, Colombia
 
-Here are some ideas to get you started:
+## 💻 Tecnologías
+- **Lenguajes:** Python, C#, JavaScript, HTML, CSS, SQL
+- **Frameworks:** ASP.NET MVC, Node.js
+- **Bases de datos:** MySQL, MongoDB
+- **Herramientas:** Git, GitHub, Visual Studio, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Aprendiendo ahora
+- 🐍 Profundizando en Python
+- 🔐 Ciberseguridad – Cisco Networking Academy
+- 🤖 Inteligencia Artificial
+
+## 🎓 Certificaciones
+- Introducción a la Ciberseguridad – Cisco Networking Academy
+- Introducción a Cisco Packet Tracer – Cisco Networking Academy
+- Desarrollo con Inteligencia Artificial – BIG School
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/brayanmartinezcol/)
